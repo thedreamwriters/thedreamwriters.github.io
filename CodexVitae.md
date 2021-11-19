@@ -22,17 +22,17 @@ This Codex Vitae, or "book of life", is a collection of my beliefs and concepts 
 
 ### Meta-beliefs ### 
 
-		Beliefs about beliefs.
+Beliefs about beliefs.
 
 ### Principles ###
 
-		Fundamentals that guide my life.
+Fundamentals that guide my life.
 		
 ### Things I No Longer Believe ###
-		These are things I have changed my mind about.
+These are things I have changed my mind about.
 		
 ### Fears ###
-    This is a list of fears that I am continually working on. I try to understand what's at the root of these fears and what beliefs or practices I can develop to know that things are going to be okay. Because, in a very broad sense, things are going to be okay.
+This is a list of fears that I am continually working on. I try to understand what's at the root of these fears and what beliefs or practices I can develop to know that things are going to be okay. Because, in a very broad sense, things are going to be okay.
 		 
 
 ## Selfcare ##
@@ -175,19 +175,19 @@ This Codex Vitae, or "book of life", is a collection of my beliefs and concepts 
 
 ### Concepts ###
 
-		Philosophies or ideas I espouse.
+Philosophies or ideas I espouse.
 
 ### Books, TV, Movies & Podcasts ###
 
-		Books and other media that have impacted my believes.
+Books and other media that have impacted my believes.
 
 ### Quotations ###
 
-		Quotes and mottos to live by.
+Quotes and mottos to live by.
 
 ### Inspirational Lives ###
 
-		People who's lives or work inspire me in mine.
+People who's lives or work inspire me in mine.
 
 ## My Writing ##
 
