@@ -13,4 +13,5 @@ This is a home page for all our educational pursuits in coding and non-coding pr
 * [Words of the Year 2020](2020words.md)
 * [Words of the Year 2021](2021words.md)
 * [Words of the Year 2022](2022words.md)
+* [2022 Desire Map] (2022DesireMap.md) 
 * TDF Form-Finding and Log
