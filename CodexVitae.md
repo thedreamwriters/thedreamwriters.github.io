@@ -184,6 +184,8 @@ Books and other media that have impacted my believes.
 ### Quotations ###
 
 Quotes and mottos to live by.
+* "If there's a book that you want to read, but it hasn't been written yet, then you must write it." - Toni Morrison
+
 
 ### Inspirational Lives ###
 
