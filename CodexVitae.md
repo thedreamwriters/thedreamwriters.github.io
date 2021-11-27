@@ -160,6 +160,9 @@ This is a list of fears that I am continually working on. I try to understand wh
 #### Beliefs ####
 
 #### Pre-Decisions ####
+* I will keep my voter registration active. 
+* I will vote in every local, state, presidential election I can.
+* I will advocate for causes important to me through ResistBot and other legislative letter-writing programs.
 
 #### Aspirations ####
 
@@ -174,22 +177,55 @@ This is a list of fears that I am continually working on. I try to understand wh
 ## Influences ##
 
 ### Concepts ###
-
 Philosophies or ideas I espouse.
 
-### Books, TV, Movies & Podcasts ###
 
-Books and other media that have impacted my believes.
+### Books, TV, Movies & Podcasts ###
+Books and other media that have impacted my beliefs.
+
+* Young Wizards & Cats of Grand Central series by Diane Duane
+* All Souls Trilogy by Deborah Harkness
+* Kushiel's Legacy series by Jacqueline Carey
+* Magic Ex Libris series by Jim C Hines
+* Never Been Kissed
+* The Field of Dreams
+* Salem's Lot by Stephen King
+* The Dark Tower series by Stephen King
+* Welcome to Night Vale
+* The Orbiting Human Circus (of the Air)
+* The Hunger Games series by Suzanne Collins 
+* The Harry Potter series by J.K. Rowling
+* His Dark Materials series by Philip Pullman
+* Miss Congeniality & Miss Congeniality 2
+* Sesame Street 
+* The Muppets
+* Little Bear
+* Winnie the Pooh
+* Mulan
+* Moana
+* Merida 
+* Frozen
 
 ### Quotations ###
-
 Quotes and mottos to live by.
+
 * "If there's a book that you want to read, but it hasn't been written yet, then you must write it." - Toni Morrison
 
 
 ### Inspirational Lives ###
-
 People who's lives or work inspire me in mine.
+
+* Elizabeth Barrette
+* Mara Wilson
+* Amanda Palmer 
+* Emily Dickinson
+* Anne Hathaway
+* Drew Barrymore
+* Jim C Hines
+* Alice Langholt
+* Cynthia Piltch
+* Connie Dohan
+* Jack Canfield
 
 ## My Writing ##
 
