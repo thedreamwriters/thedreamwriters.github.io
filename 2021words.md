@@ -24,4 +24,4 @@
 
 **November:** Support, Abandonment, Action, Fuckery 😜  Patience, Expansion, Freedom
 
-**December:** {Village Word},  {Village Shadow}, {My Word}, {My Shadow}, {My Business} , Laughter 
+**December:** {Village Word},  {Village Shadow}, Serendipity, Dissonance, {My Business} , Laughter 
