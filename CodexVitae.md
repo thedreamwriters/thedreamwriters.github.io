@@ -226,7 +226,13 @@ People who's lives or work inspire me in mine.
 * Cynthia Piltch
 * Connie Dohan
 * Jack Canfield
-
+* Gwynne Michele 
+* Danielle LaPorte 
+* Mastin Kipp
+* Diane Duane 
+* Neil Gaiman 
+* Deborah Harkness
+* Stephen King 
 ## My Writing ##
 
 
