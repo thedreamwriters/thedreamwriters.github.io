@@ -4,6 +4,7 @@ This is a home page for all our educational pursuits in coding and non-coding pr
 
 ## EDUCATION
 * EDUCATION RESUME
+* [FreeCodeCamp Class_Repository](https://github.com/thedreamwriters/freecodecamp_class_activities)
 
 ## PROFESSIONAL
 * PROFESSIONAL RESUME
