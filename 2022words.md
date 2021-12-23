@@ -1,8 +1,8 @@
 # thedreamwriters.github.io: 2022 Words of the Year
 
-**All Year:** {Village Word}, {Village Shadow}, {My Word}, {My Shadow}, {My Personal Words}, {My CDFs}
+**All Year:** Compassion, Agency, Flow, Accountability, Persist, Faith, {My CDFs}
 
-**January:** {Village Word},  {Village Shadow}, {My Word}, {My Shadow}, {My Business}, Peace
+**January:** identity,  {Village Shadow}, {My Word}, {My Shadow}, {My Business}, Peace
 
 **February:** {Village Word},  {Village Shadow}, {My Word}, {My Shadow}, {My Business}, Courage
 
