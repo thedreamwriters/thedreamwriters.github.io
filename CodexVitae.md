@@ -196,6 +196,7 @@ Books and other media that have impacted my beliefs.
 * The Hunger Games series by Suzanne Collins 
 * The Harry Potter series by J.K. Rowling
 * His Dark Materials series by Philip Pullman
+* The Little Prince by Antoine Saint-de-Exupery
 * Miss Congeniality & Miss Congeniality 2
 * Sesame Street 
 * The Muppets
@@ -205,6 +206,10 @@ Books and other media that have impacted my beliefs.
 * Moana
 * Merida 
 * Frozen
+* Encanto
+* Beauty & The Beast
+* Many Minds on the Issue
+* System Speak
 
 ### Quotations ###
 Quotes and mottos to live by.
@@ -233,6 +238,14 @@ People who's lives or work inspire me in mine.
 * Neil Gaiman 
 * Deborah Harkness
 * Stephen King 
+* Elizabeth Blackwell
+* Helen Keller
+* Criss Ittermann
+* LB Lee
+* Kristin Windsor
+* Dylan Marron
+* Mia Voss
+
 ## My Writing ##
 
 
